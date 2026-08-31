@@ -8,7 +8,8 @@
 
   - [Text Formatting](#text-formatting)
 
-- [Click Alonzo, Lab 1](#click-Alonzo,-Lab-1)
+- [BJC Labs](BJC-Labs)
+  - [Lab 1, Click Alonzo](Lab-1,-Click-Alonzo)
 
 
 
