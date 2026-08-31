@@ -53,6 +53,10 @@
   <summary>script</summary>
   a bunch of blocks clicked together is called a script
 </details>
+
+<details>
+  <summary>sprites and costumes</summary>
+</details>
 ---
 
 ## Important Blocks
