@@ -1,6 +1,7 @@
 ## Table of Contents
 - [Vocab](#vocab)
 - [Important blocks](#important-blocks)
+- [Click Alonzo, Lab 1](#click-Alonzo,-Lab-1)
 - [On the AP Exam](#on-the-ap-exam)
 - [Notebook Style Guide](#markdown-style-guide-for-coding-notebooks)
 
@@ -70,6 +71,9 @@
 
   - Many languages (and the AP CS Principles Exam) use return instead of report as the name of the command to give a value back at the end of a function call.
   - The exam uses "value of a procedure" to mean the value the procedure returns when called. For example, "the value of double(5)" means 10.
+
+## Click Alonzo, Lab 1
+
 
 ## Headings
 
