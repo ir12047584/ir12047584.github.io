@@ -50,6 +50,18 @@
 
 ---
 
+## Important Blocks
+<details>
+  <summary>broadcast</summary>
+     Sends a message to all the sprites. To set the message, click the down arrow and select "new..."
+</details>
+
+<details>
+  <summary>when I receive</summary>
+     (Click help on the block to learned more about it in order to complete this definition)
+</details>
+
+
 ## Headings
 
 **When to use:** Organize your notebook into sections (like days, topics, or projects).  
