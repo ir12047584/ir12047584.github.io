@@ -42,11 +42,7 @@
   <summary>Abstraction</summary>
     The most fundamental idea in computer science, giving a name to something in a program to make it more readable.
 </details>
-## Markdown Style Guide for Coding Notebooks
 
-Follow this guide to keep your coding notebook **clear, consistent, and professional**.  
-
-This ensures your notes are easy for you (and others) to read later.
 <details>
   <summary>Procedural abstraction</summary>
     Using a procedure to name an idea, ex. the procedure "who" to the idea of picking an item from the list of people or cats.
