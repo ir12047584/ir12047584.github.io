@@ -1,7 +1,6 @@
 ## Table of Contents
 - [Vocab](#vocab)
 - [Important blocks](#important-blocks)
-- [Click Alonzo, Lab 1](#click-Alonzo,-Lab-1)
 - [On the AP Exam](#on-the-ap-exam)
 - [Notebook Style Guide](#markdown-style-guide-for-coding-notebooks)
 
@@ -9,7 +8,7 @@
 
   - [Text Formatting](#text-formatting)
 
-
+- [Click Alonzo, Lab 1](#click-Alonzo,-Lab-1)
 
 
 
