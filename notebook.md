@@ -79,7 +79,7 @@ a sequence of characters (letters, digits, punctuation, etc.)
 
 <details>
   <summary>Concatenation<summary>
-   To concatenate strings means to make a bigger string by connecting two or more smaller strings.
+To concatenate strings means to make a bigger string by connecting two or more smaller strings.
 </details>
 
 <details>
