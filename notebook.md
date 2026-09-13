@@ -125,7 +125,7 @@ a sequence of characters (letters, digits, punctuation, etc.)
 
   - Many languages (and the AP CS Principles Exam) use return instead of report as the name of the command to give a value back at the end of a function call.
   - The exam uses "value of a procedure" to mean the value the procedure returns when called. For example, "the value of double(5)" means 10.
-
+<img width="1154" height="125" alt="Screenshot 2026-09-13 at 4 31 57 PM" src="https://github.com/user-attachments/assets/4bdf1141-81ff-46c5-bd4c-cfa19625edc0" />
 
 ## Lab 1, Click Alonzo
 <details>
