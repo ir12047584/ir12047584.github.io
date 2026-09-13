@@ -65,8 +65,27 @@
   <summary>Transparency</summary>
   how much you can see of a image (can be either very faded or very apparent)
 </details>
----
 
+<details>
+  <summary>List</summary>
+  an ordered sequence of items made of strings
+</details>
+
+<details> 
+<summary>string</summary> 
+a sequence of characters (letters, digits, punctuation, etc.)
+</details>
+
+<details>
+  <summary>substring</summary>
+  just extra existing string
+</details>
+
+<details>
+  <summary>debugging</summary>
+  the process of testing, finding problems, and fixing them is called debugging.
+</details>
+  
 ## Important Blocks
 <details>
   <summary>broadcast</summary>
@@ -77,7 +96,7 @@
   <summary>when I receive</summary>
      (Click help on the block to learned more about it in order to complete this definition)
 </details>
----
+
 
 ## On the AP Exam
 <img width="1003" height="120" alt="image" src="https://github.com/user-attachments/assets/0e83d64f-c988-41b4-926f-27ef51925ceb" />
