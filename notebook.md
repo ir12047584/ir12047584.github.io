@@ -151,6 +151,8 @@ Some people call an algorithm written in human language pseudocode.
 <details>
 <img width="1184" height="134" alt="Screenshot 2026-09-13 at 4 40 28 PM" src="https://github.com/user-attachments/assets/76398ffa-468e-4927-be22-78e87b2091a4" />
 -  Visible stepping can be useful as you read someone else's code because you can watch it at human speed instead of computer speed. It's also useful in debugging (fixing problems with) your own code when it's doing something wrong.
+  <img width="1277" height="113" alt="Screenshot 2026-09-13 at 4 50 46 PM" src="https://github.com/user-attachments/assets/9f4f09d7-ce96-43fb-929c-9b0c48259e09" />
+  - use say for to determine the bug in code that is supposed to draw a rectangle. Notice how say for makes the program pause and gives you information to help you identify the source of error.
 </details>
 
 ## Headings
