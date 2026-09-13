@@ -57,6 +57,8 @@
 
 <details>
   <summary>sprites and costumes</summary>
+  sprites are puppets for code.
+  costumes are images worn by sprites.
 </details>
 ---
 
