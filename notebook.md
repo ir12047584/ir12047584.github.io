@@ -11,7 +11,7 @@
 - [BJC Labs](BJC-Labs)
   - [Lab 1, Click Alonzo](#Lab-1,-Click-Alonzo)
   - [Lab 2, Gossip](#Lab-2,-Gossip)
-
+  - [Lab 3, Modern Art with Polygons](#Lab-3,-Modern-Art-With-Polygons)
 
 
 
@@ -143,6 +143,12 @@ Some people call an algorithm written in human language pseudocode.
 ## Lab 2, Gossip
 <details>
   <img width="1284" height="141" alt="Screenshot 2026-09-12 at 7 34 55 PM" src="https://github.com/user-attachments/assets/013305e2-3fa5-40b0-95e9-af5cc88d8ca6" />
+</details>
+
+## Lab 3, Modern Art with Polygons
+<details>
+<img width="1184" height="134" alt="Screenshot 2026-09-13 at 4 40 28 PM" src="https://github.com/user-attachments/assets/76398ffa-468e-4927-be22-78e87b2091a4" />
+-  Visible stepping can be useful as you read someone else's code because you can watch it at human speed instead of computer speed. It's also useful in debugging (fixing problems with) your own code when it's doing something wrong.
 </details>
 
 ## Headings
