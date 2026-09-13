@@ -98,6 +98,15 @@ a sequence of characters (letters, digits, punctuation, etc.)
      (Click help on the block to learned more about it in order to complete this definition)
 </details>
 
+<details>
+  <summary>commands</summary>
+  have a jigsaw shape, they tell the computer what to do without reporting a value.
+</details>
+
+<details>
+  <summary>reporters</summary>
+  reporters have an oval shape and report a value.
+</details>
 
 ## On the AP Exam
 <img width="1003" height="120" alt="image" src="https://github.com/user-attachments/assets/0e83d64f-c988-41b4-926f-27ef51925ceb" />
