@@ -86,6 +86,11 @@ a sequence of characters (letters, digits, punctuation, etc.)
   <summary>debugging</summary>
   the process of testing, finding problems, and fixing them is called debugging.
 </details>
+
+<details>
+  <summary>procedure</summary>
+  named sequence of instructions that may take inputs and may report a value. Some languages call procedures methods or functions
+</details>
   
 ## Important Blocks
 <details>
