@@ -47,7 +47,7 @@
 
 <details>
   <summary>Procedural abstraction</summary>
-    Using a procedure to name an idea, ex. the procedure "who" to the idea of picking an item from the list of people or cats.
+ Using a procedure to name an idea, ex. the procedure "who" to the idea of picking an item from the list of people or cats.
 </details>
 
 <details> 
@@ -78,8 +78,9 @@ a sequence of characters (letters, digits, punctuation, etc.)
 </details>
 
 <details>
-  <summary>Concatenation/summary>
-  To concatenate strings means to make a bigger string by connecting two or more smaller strings.</details>
+  <summary>Concatenation<summary>
+  To concatenate strings means to make a bigger string by connecting two or more smaller strings.
+  </details>
 
 <details>
   <summary>debugging</summary>
