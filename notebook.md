@@ -118,7 +118,15 @@ a sequence of characters (letters, digits, punctuation, etc.)
   reporters have an oval shape and report a value.
 </details>
 
+<details>
+  <summary>algorithm</summary>
+a sequence of steps that are usually performed by a computer. The algorithm doesn't have to be written in any particular programming language or even in a programming language at all; you can write your algorithm in English or any other human language. 
+</details>
 
+<details>
+  <summary>pseudocode</summary>
+Some people call an algorithm written in human language pseudocode.  
+</details>
 
 ## On the AP Exam
 <img width="1003" height="120" alt="image" src="https://github.com/user-attachments/assets/0e83d64f-c988-41b4-926f-27ef51925ceb" />
