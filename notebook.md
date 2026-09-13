@@ -80,7 +80,9 @@ a sequence of characters (letters, digits, punctuation, etc.)
 <details>
   <summary>Concatenation<summary>
     To concatenate strings means to make a bigger string by connecting two or more smaller strings.
-<details>
+  </details>
+
+  <details>
   <summary>debugging</summary>
   the process of testing, finding problems, and fixing them is called debugging.
 </details>
