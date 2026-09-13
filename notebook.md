@@ -77,16 +77,16 @@ a sequence of characters (letters, digits, punctuation, etc.)
   - substring: just extra existing string
 </details>
 
-<details>
-  <summary>Concatenation<summary>
-    To concatenate strings means to make a bigger string by connecting two or more smaller strings.
-  </details>
-
   <details>
-  <summary>debugging</summary>
+    <summary>Concatenation<summary>
+    To concatenate strings means to make a bigger string by connecting two or more smaller strings.
+    </details>
+  
+  <details>
+    <summary>debugging</summary>
   the process of testing, finding problems, and fixing them is called debugging.
-</details>
-
+  </details>
+  
 <details>
   <summary>procedure</summary>
   named sequence of instructions that may take inputs and may report a value. Some languages call procedures methods or functions
