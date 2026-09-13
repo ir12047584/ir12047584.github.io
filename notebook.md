@@ -138,11 +138,13 @@ Some people call an algorithm written in human language pseudocode.
 ## Lab 1, Click Alonzo
 <details>
   <img width="1279" height="289" alt="Screenshot 2026-09-12 at 7 21 46 PM" src="https://github.com/user-attachments/assets/295ecc6d-d8cd-45ef-9edf-14f593de756c" />
+  - this lab shows us the building blocks of coding & how to make a clicking game.
 </details>
 
 ## Lab 2, Gossip
 <details>
   <img width="1284" height="141" alt="Screenshot 2026-09-12 at 7 34 55 PM" src="https://github.com/user-attachments/assets/013305e2-3fa5-40b0-95e9-af5cc88d8ca6" />
+  - this lab shows us how to work with others.
 </details>
 
 ## Lab 3, Modern Art with Polygons
