@@ -74,12 +74,12 @@
 <details> 
 <summary>string</summary> 
 a sequence of characters (letters, digits, punctuation, etc.)
+  - substring: just extra existing string
 </details>
 
 <details>
-  <summary>substring</summary>
-  just extra existing string
-</details>
+  <summary>Concatenation/summary>
+  To concatenate strings means to make a bigger string by connecting two or more smaller strings.</details>
 
 <details>
   <summary>debugging</summary>
