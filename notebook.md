@@ -9,8 +9,8 @@
   - [Text Formatting](#text-formatting)
 
 - [BJC Labs](BJC-Labs)
-  - [Lab 1, Click Alonzo](Lab-1,-Click-Alonzo)
-  - [Lab 2, Gossip](Lab-2,-Gossip)
+  - [Lab 1, Click Alonzo](#Lab-1,-Click-Alonzo)
+  - [Lab 2, Gossip](#Lab-2,-Gossip)
 
 
 
