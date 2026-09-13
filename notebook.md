@@ -91,7 +91,12 @@ a sequence of characters (letters, digits, punctuation, etc.)
   <summary>procedure</summary>
   named sequence of instructions that may take inputs and may report a value. Some languages call procedures methods or functions
 </details>
-  
+  <details>
+  <summary>expression</summary>
+  An expression is a either a constant value (such as "4" or "winter") or a call to a reporter block including its inputs <img width="104" height="53" alt="Screenshot 2026-09-12 at 9 09 46 PM" src="https://github.com/user-attachments/assets/e37e89b0-a60b-4f18-8e00-f316cc2a12bb" />
+  <img width="623" height="40" alt="Screenshot 2026-09-12 at 9 08 11 PM" src="https://github.com/user-attachments/assets/ba7560f0-0925-4234-a3fa-f1530b012e61" /> 
+</details>
+
 ## Important Blocks
 <details>
   <summary>broadcast</summary>
@@ -113,11 +118,7 @@ a sequence of characters (letters, digits, punctuation, etc.)
   reporters have an oval shape and report a value.
 </details>
 
-<details>
-  <summary>expression</summary>
-  An expression is a either a constant value (such as "4" or "winter") or a call to a reporter block including its inputs <img width="104" height="53" alt="Screenshot 2026-09-12 at 9 09 46 PM" src="https://github.com/user-attachments/assets/e37e89b0-a60b-4f18-8e00-f316cc2a12bb" />
-  <img width="623" height="40" alt="Screenshot 2026-09-12 at 9 08 11 PM" src="https://github.com/user-attachments/assets/ba7560f0-0925-4234-a3fa-f1530b012e61" /> 
-</details>
+
 
 ## On the AP Exam
 <img width="1003" height="120" alt="image" src="https://github.com/user-attachments/assets/0e83d64f-c988-41b4-926f-27ef51925ceb" />
