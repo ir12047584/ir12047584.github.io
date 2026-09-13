@@ -93,7 +93,7 @@
 
 ## Lab 2, Gossip
 <details>
-  
+  <img width="1284" height="141" alt="Screenshot 2026-09-12 at 7 34 55 PM" src="https://github.com/user-attachments/assets/013305e2-3fa5-40b0-95e9-af5cc88d8ca6" />
 </details>
 
 ## Headings
