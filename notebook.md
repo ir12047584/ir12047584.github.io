@@ -78,7 +78,7 @@ a sequence of characters (letters, digits, punctuation, etc.)
 </details>
 
   <details>
-    <summary>Concatenation<summary>
+    <summary>Concatenation</summary>
     To concatenate strings means to make a bigger string by connecting two or more smaller strings.
     </details>
   
