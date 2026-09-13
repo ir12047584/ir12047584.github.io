@@ -10,6 +10,7 @@
 
 - [BJC Labs](BJC-Labs)
   - [Lab 1, Click Alonzo](Lab-1,-Click-Alonzo)
+  - [Lab 2, Gossip](Lab-2,-Gossip)
 
 
 
@@ -69,6 +70,7 @@
   <summary>when I receive</summary>
      (Click help on the block to learned more about it in order to complete this definition)
 </details>
+---
 
 ## On the AP Exam
 <img width="1003" height="120" alt="image" src="https://github.com/user-attachments/assets/0e83d64f-c988-41b4-926f-27ef51925ceb" />
