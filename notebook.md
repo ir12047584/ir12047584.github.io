@@ -97,6 +97,16 @@ a sequence of characters (letters, digits, punctuation, etc.)
   <img width="623" height="40" alt="Screenshot 2026-09-12 at 9 08 11 PM" src="https://github.com/user-attachments/assets/ba7560f0-0925-4234-a3fa-f1530b012e61" /> 
 </details>
 
+<details>
+<summary>parameter</summary>
+A parameter (or formal parameter) is the input name, such as number of branches. The input name is set in the block definition. It never changes.  
+</details>
+
+<details>
+  <summary>argument</summary>
+An argument (or actual argument) is the input value, The input value is given each time the block is run; it can be a different value each time.  
+</details>
+
 ## Important Blocks
 <details>
   <summary>broadcast</summary>
