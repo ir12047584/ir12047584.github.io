@@ -139,6 +139,54 @@ Some people call an algorithm written in human language pseudocode.
 </details>
 
 ## AP CSP Vocabulary 
+
+<details>
+  <summary><strong>Algorithm</strong></summary>
+
+**Definition:** A finite set of instructions used to accomplish a task.
+
+**In My Own Words:** algorithm is when a certain amount of set of instructions used to finish a task.
+
+**Example:**
+```
+{
+   The instructions that move a robot into its final position
+}
+```
+</details>
+
+<details>
+  <summary><strong>Sequencing</strong></summary>
+
+  **Definition:** Statements execute in an order they appear unless the flow of control changes.
+
+  **In My Own Words:** statements played in the order they are in unless the flow of control changes in the program.
+
+  **Example:**
+  ```
+{
+   ROTATE_LEFT() followed by
+   MOVE_FOWARD()
+}
+```
+</details>
+
+<details>
+  <summary><strong>Selection</strong></summary>
+
+**Definition:** Uses a condition to determine which part of a program is executed. 
+
+**In My Own Words:** selection uses a condition to see what part of the program it applies to.
+
+**Example:**
+```
+{
+   IF  (x < 3)
+}
+```
+
+</details>
+
 <details>
   <summary><strong>Iteration</strong></summary>
   
@@ -158,6 +206,81 @@ This repeats MOVE_FORWARD() three times.
 
 </details>
 
+<details>
+  <summary><strong>Variable</strong></summary>
+
+  **Definition:** A named value that can change while a program runs.
+
+  **In My Own Words:** Variable is a labeled value that can change while a program runs
+
+  **example:**
+  ```
+{
+      i in i=3
+}
+```
+This shows i's given value
+</details>
+
+<details>
+  <summary><strong>Assignment</strong></summary>
+
+**Definition:** Stores a value in a variable. 
+
+**In My Own Words:** stores a value in variable. 
+
+**Example:**
+```
+{
+    i=3
+}
+```
+</details>
+
+<details>
+  <summary><strong>Expression</strong></summary>
+
+**Definition:** a combination of values, variables, and operators that evaluates to a value. 
+
+**In My Own Words:** a bunch of values, variables, and operators that processes to a value.
+
+**Example:**
+```
+{
+  i-1
+}
+```
+</details>
+
+<details>
+  <summary><strong>Condition</strong></summary>
+
+**Definition:** An expression that evaluates to either ```{true}``` or ```{false}```.
+
+**In My Own Words:** condition can either mean ```{true}``` or ```{false}``` or
+
+**Example:**
+```
+{
+   x < 3
+}
+```
+</details>
+
+<details>
+  <summary><strong>Boolean</strong></summary>
+
+**Definition:** A value that is either ```{true}``` or ```{false}```.
+
+**In My Own Words:** a value that can be either true or false.
+
+**Example:**
+```
+{
+  The result of x <_ 1
+}
+```
+</details>
 
 ## On the AP Exam
 <img width="1003" height="120" alt="image" src="https://github.com/user-attachments/assets/0e83d64f-c988-41b4-926f-27ef51925ceb" />
