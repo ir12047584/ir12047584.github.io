@@ -13,7 +13,7 @@
   - [Lab 2, Gossip](#Lab-2,-Gossip)
   - [Lab 3, Modern Art with Polygons](#Lab-3,-Modern-Art-With-Polygons)
 
-
+- [AP CSP Vocabulary] 
 
 
 
@@ -137,6 +137,16 @@ a sequence of steps that are usually performed by a computer. The algorithm does
   <summary>pseudocode</summary>
 Some people call an algorithm written in human language pseudocode.  
 </details>
+
+## AP CSP Vocabulary 
+<details>
+  <summary><strong>Iteration</strong></summary>
+  
+**Definition:** Repeating a set of instructions in an Algorithm. 
+
+**In My Own Words:** iteration is when a program does the same batch of steps a certain amount of time instead of repeating them over and over 
+</details>
+
 
 ## On the AP Exam
 <img width="1003" height="120" alt="image" src="https://github.com/user-attachments/assets/0e83d64f-c988-41b4-926f-27ef51925ceb" />
