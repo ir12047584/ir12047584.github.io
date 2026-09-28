@@ -214,11 +214,7 @@ This repeats MOVE_FORWARD() three times.
   **In My Own Words:** Variable is a labeled value that can change while a program runs
 
   **example:**
-  ```
-{
-      i in i=3
-}
-```
+      ```{I}``` in ```{i=3}```
 This shows i's given value
 </details>
 
@@ -275,11 +271,107 @@ This shows i's given value
 **In My Own Words:** a value that can be either true or false.
 
 **Example:**
+The result of ```{x <_ 1}```
+</details>
+
+<details>
+<summary><strong>Relation Operator</strong></summary>
+
+**Definition: Compares two values and produces a Boolean result. 
+
+**In My Own Words:** compares two values and makes a boolean outcome. 
+
+**Example:** 
 ```
 {
-  The result of x <_ 1
+    <,>,<_,>_,=,=/
 }
 ```
+</details>
+
+<details>
+<summary><strong>Procedure</strong></summary>
+
+**Definition:** A named group of programming instructions that performs a task. 
+
+**In My Own Words:** when a named group of programming instructions does a task.
+
+**Example:**
+```
+{
+ PROCEDURE FancyMove(x)
+}
+```
+</details>
+
+<details>  
+<summary><strong>Procedure Call</strong></summary>
+
+**Definition:** Tells the program to execute a procedure. 
+
+**In My Own Words:** procedure call means to tell a program to do a procedure.
+
+**Example:**
+```
+{
+  FancyMove(i)
+}
+```
+</details>
+
+<details>
+<summary><strong>Parameter</strong></summary>
+
+**Definition:** A variable in a procedure definition that receives a value when the procedure is called.
+
+**In My Own Words:** parameter is an empty slot for a specific value.
+
+**Example:**
+```{x}``` in ```{PROCEDURE FancyMove(x)}```
+</details>
+
+<details>
+<summary><strong>Argument</strong></summary>
+
+**Definition:** The actual value or variable supplied to a procedure when the procedure is called.
+
+**In My Own Words:** the value or variable in a given to a procedure when the procedure is called.
+
+**Example:**
+```{I}``` in ```{FancyMove(i)}```
+</details>
+
+<details>
+  <summary><strong>Flow of Control</strong></summary>
+
+**Definition:** The order in which statements in a program are executed
+
+**In My Own Words:** the exact order of how statements in a program are played.
+
+**Example:**
+ An ```{IF}``` determines which branch runs.
+</details>
+
+<details>
+  <summary><strong>Nested Selection</strong></summary>
+
+**Definition:** A selection statement contained inside another selection statement
+
+**In My Own Words:** a selection statement in another selection statement 
+
+**Example:**
+An ```{if}``` inside of an ```{ELSE}``` block.
+</details>
+
+<details>
+  <summary><strong>Nested Iteration</strong></summary>
+
+**Definition:** an iteration statement inside another iteration statement 
+
+**In My Own Words:** a repeat in another repeat. 
+
+**Example:**
+```{REPEAT i TIMES}``` inside ```{REPEAT 3 TIMES}```
 </details>
 
 ## On the AP Exam
