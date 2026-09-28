@@ -13,7 +13,7 @@
   - [Lab 2, Gossip](#Lab-2,-Gossip)
   - [Lab 3, Modern Art with Polygons](#Lab-3,-Modern-Art-With-Polygons)
 
-- [AP CSP Vocabulary] 
+- [AP CSP Vocabulary](#AP-CSP-Vocabulary)
 
 
 
@@ -144,7 +144,18 @@ Some people call an algorithm written in human language pseudocode.
   
 **Definition:** Repeating a set of instructions in an Algorithm. 
 
-**In My Own Words:** iteration is when a program does the same batch of steps a certain amount of time instead of repeating them over and over 
+**In My Own Words:** iteration is when a program does the same batch of steps a certain amount of time instead of repeating them forever
+
+**Example:** 
+```
+REPEAT 3 TIMES
+{
+     MOVE_FORWARD()
+}
+```
+
+This repeats MOVE_FORWARD() three times.
+
 </details>
 
 
