@@ -2,8 +2,7 @@
 
 ## Projects
 
-- Project 1: Description
-
+- [Project 1: EMS Station] (project-1-Ems-Statio.md)
 - Project 2: Description
 
 ## About Me
