@@ -22,8 +22,22 @@ here’s the box I used for the servo to go in but we didn’t get that far.
 
 <img width="2048" height="1536" alt="image" src="https://github.com/user-attachments/assets/a977f8a6-398b-4582-8d51-8dbc3aef4739" />
 
+Alonzo's code!
+<img width="693" height="442" alt="image" src="https://github.com/user-attachments/assets/48b31b38-1dff-4843-87fe-9fc8f64920e4" />
 
-heres some of the coding i did for alonzo.
+
+heres the code for the medical station
+<img width="765" height="484" alt="image" src="https://github.com/user-attachments/assets/0524f9e5-6c2b-4f28-b284-975faa95c549" />
+
+
+heres some of the code for the tree station
+<img width="694" height="507" alt="image" src="https://github.com/user-attachments/assets/a1693b6d-e254-42d1-ab92-e4cab5332503" />
+
+
+heres some of the coding i did for alonzo fire station:
+
+<img width="760" height="437" alt="image" src="https://github.com/user-attachments/assets/0ae5651a-1712-4476-968a-66df25cfb179" />
+
 
 
 and that’s it. Thank you!
