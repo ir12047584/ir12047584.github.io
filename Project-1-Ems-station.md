@@ -17,3 +17,6 @@ here’s the physical parts connected to the computer below!
 <img width="2048" height="1536" alt="image" src="https://github.com/user-attachments/assets/08615855-6432-423d-8140-b8e641ef0364" />
 
 you can see the traffic light working and the position servo connected to the pack + battery pack for extra support. 
+here’s the box I used for the servo to go in but we didn’t get that far. 
+<img width="2048" height="1536" alt="image" src="https://github.com/user-attachments/assets/a977f8a6-398b-4582-8d51-8dbc3aef4739" />
+and that’s it. Thank you!
