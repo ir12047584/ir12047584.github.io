@@ -40,6 +40,6 @@ heres some of the coding i did for alonzo fire station:
 
 <img width="760" height="437" alt="image" src="https://github.com/user-attachments/assets/0ae5651a-1712-4476-968a-66df25cfb179" />
 
-
+the finished system was supposed to open the garage door for the medical emergency's which didn't happen because we weren't able to complete it. This  station represents a real life problem that fire fighters deal with on a daily basis, they also have a garage door which opens whenever there's an emergency 
 
 and that’s it. Thank you!
