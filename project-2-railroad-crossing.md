@@ -1,5 +1,8 @@
 - - -
-layout:default
+layout: default
 
-title:”project 2: railroad crossing”
+title: ”project 2: railroad crossing”
 - - -
+
+# project 2 : railroad crossing
+In this project i made 
