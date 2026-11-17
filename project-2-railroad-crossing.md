@@ -22,7 +22,7 @@ The code below makes the table for the information for crossing record.
 here it explains the crossing activation, practically the code for this. 
 <img width="213" height="84" alt="image" src="https://github.com/user-attachments/assets/dc9e527f-46d3-4e54-86cc-4b1d408af7d2" />
 
-The code below for the distance sensor, LED(s), position servo. 
+The code below for the distance sensor, LED(s), position servo. this code is what makes the humming bird lift the cardboard up and down when the train passes. 
 
 
 
