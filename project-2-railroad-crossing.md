@@ -42,7 +42,8 @@ here it explains the crossing activation, practically the code for this.
 The code below for the distance sensor, LED(s), position servo. this code is what makes the humming bird lift the cardboard up and down when the train passes. 
 <img width="475" height="558" alt="image" src="https://github.com/user-attachments/assets/d0a28e56-9595-48da-be71-7f918bcc28ae" />
 
- # 
+ # snap link!
+
 
 # final project
 - Below is a link. this link shows my final project and how to turned out in video form!
