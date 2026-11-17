@@ -15,6 +15,8 @@ For this project you'll need:
 In this project I'm supposed to make code and build with parts physically to make this project work. First we connect the LED's first to the hummingbird. 
 Me personally i just used RGB-LED. 
 
+# what’s it supposed to look like?
+
 
 # Coding?
 The code below makes the table for the information for crossing record. 
@@ -23,8 +25,9 @@ here it explains the crossing activation, practically the code for this.
 <img width="213" height="84" alt="image" src="https://github.com/user-attachments/assets/dc9e527f-46d3-4e54-86cc-4b1d408af7d2" />
 
 The code below for the distance sensor, LED(s), position servo. this code is what makes the humming bird lift the cardboard up and down when the train passes. 
+<img width="475" height="558" alt="image" src="https://github.com/user-attachments/assets/d0a28e56-9595-48da-be71-7f918bcc28ae" />
 
 
-
-
+# final project
+- Below is a link. this link shows my final project and how to turned out in video form!
  https://drive.google.com/file/d/1cCf0tU0ejiHVK4EAqDorTPPBvDUvn9co/view?usp=sharing
