@@ -16,6 +16,15 @@ In this project I'm supposed to make code and build with parts physically to mak
 Me personally i just used RGB-LED. 
 
 # what’s it supposed to look like?
+- Heres the RGB-LED flashing red and green. This LED flickers red when the train is passing and turns green when the train is gone for traffic to go.
+  <img width="1536" height="2048" alt="image" src="https://github.com/user-attachments/assets/09cf5f32-b0ee-4414-8d2f-38fd6b8ccbfc" />
+  ^ Green
+  <img width="1270" height="2048" alt="image" src="https://github.com/user-attachments/assets/d1551fba-b72c-436e-8d8d-c3e040cf1e28" />
+^ Red
+
+- Here’s what the distance sensor is supposed to look like. This sensor is supposed to sense the train and stop traffic for the train to pass.
+  <img width="2048" height="1333" alt="image" src="https://github.com/user-attachments/assets/13dbf892-3b1b-4c1f-b4cb-3d433cea4d3b" />
+
 
 
 # Coding?
