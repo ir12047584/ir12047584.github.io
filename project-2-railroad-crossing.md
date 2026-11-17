@@ -28,6 +28,9 @@ Me personally i just used RGB-LED.
 - Here is my position servo which is attached to a piece of cardboard. this cardboard acts as the block between traffic and the oncoming train. The position servo makes the cardboard go down when the train is passing. While the train is no longer passing, the cardboard lifts and allows traffic to pass.
   <img width="2048" height="1521" alt="image" src="https://github.com/user-attachments/assets/3e736884-eb99-4589-8a97-d2f6e079d150" />
 
+# Built parts 
+- Heres what the final project should look like physically for the activation railroad crossing to work.
+<img width="2048" height="1168" alt="image" src="https://github.com/user-attachments/assets/bc6563b4-781e-42a5-bcea-c6682bf96409" />
 
 
 # Coding?
